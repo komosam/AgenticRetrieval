@@ -1,4 +1,4 @@
 # AgenticRetrieval
 
-code inspired by YouTube_Explain/LangGraph
+code inspired by LetsLearnWithChinnoVino - (YouTube)
 /AdaptiveRAG.ipynb
